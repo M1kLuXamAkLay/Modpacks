@@ -1,0 +1,6 @@
+@"
+*.rar
+*.zip
+*.7z
+mods/
+"@ | Out-File -Encoding UTF8 .gitignore
